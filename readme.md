@@ -5,3 +5,5 @@
 * `npm install semantic-ui-css`
 
 * `npm install bootstrap`
+
+* `npm start`
