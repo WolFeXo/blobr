@@ -1,6 +1,6 @@
 ### Etape avant de lancer le fichier.
 
-* 'npm install'
+* ' npm install '
 
 * 'npm install semantic-ui-css'
 
